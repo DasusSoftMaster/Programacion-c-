@@ -1,0 +1,25 @@
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaNegocios\obj\Debug\CapaNegocios.pdb

@@ -1,0 +1,118 @@
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio 2015\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.alumnos.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.salir.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.FormAlumno.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.NOTAS.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\DASUSBETA\Documents\Visual Studio\Projects\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.alumnos.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.FormAlumno.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.NOTAS.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.salir.resources
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.SplashScreen.resources
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.alumnos.resources
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.FormAlumno.resources
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.NOTAS.resources
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.salir.resources
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.SplashScreen.resources
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Darck\Downloads\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.alumnos.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.FormAlumno.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.NOTAS.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.salir.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.SplashScreen.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.alumnos.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.FormAlumno.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.Notas.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.salir.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.SplashScreen.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\Preparatoria - copia (2)\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
